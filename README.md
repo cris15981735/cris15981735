@@ -33,8 +33,3 @@ I hold a *Bachelor of Business Administration* from UPLA (Chile), with a strong 
 [comment]:# (</a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /> )
 
 [comment]:# ( </a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /> )
-
-## Beyond the Code 🌟
- * Military leadership experience  (Corporal, Chilean Army - Task Group Leadership)
- * Active volunteer with **Fundación Diente de León** (Autism support)
- * Team management experience leading groups of 6-80 people at PROSEGUR
