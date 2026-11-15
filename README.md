@@ -13,7 +13,7 @@ I'm finishing **Ingeniería Comercial** at UPLA while taking data science and pr
 
 * 🧠 Python, R, C · basic TypeScript, JavaScript, Prolog · advanced Excel · LaTeX, Markdown. Currently learning databases and statistics.
 * 💼 Open to full-time and part-time work from July 2027
-* 📄 Full resume (PDF) [here]([CV_Antezana.pdf](https://github.com/user-attachments/files/34875498/CV_Antezana.pdf))
+* 📄 Full resume (PDF) [Here](https://github.com/user-attachments/files/34875498/CV_Antezana.pdf)
 
 [comment]:# (Esto es un comentario)
 
