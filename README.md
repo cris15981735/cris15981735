@@ -9,17 +9,11 @@
 
 
 
-I hold a *Bachelor of Business Administration* from UPLA (Chile), with a strong quantitative and analytical background. My journey combines business acumen with technical skills in programming and data analysis, preparing me to bridge the gap between business needs and technical solutions.
+I'm finishing **Ingeniería Comercial** at UPLA while taking data science and programming coursework at **PUCV**. I started university at 37, after seven years at PROSEGUR coordinating cash-handling teams of 6 to 80 people — I came to data from the operations side, and the problems I find interesting are the ones a business already has. Most recent work: a market study for an AI application (UPLA, 2025), the ICPC Chilean qualifier and Expo DataHorizon PUCV (2026).
 
-* 🌍  I'm based in Santiago, Chile
-* ✉️  You can contact me at cristian.antezana.p@mail.pucv.cl
-* 🧠  I'm currently learning Data Science and Databases.
-* 💬 Building practical experience in data-related roles and developing projects that combine business strategy with data analysis
-* 💬 Admitted to PUCV's Data Science Engineering program in 2026, currently in the 83rd percentile. [(📜 View certificate)](Ranking0126.pdf).
-
-<!-- 
-* 📄 Check out my Resume [here]()
--->
+* 🧠 Python, R, C · basic TypeScript, JavaScript, Prolog · advanced Excel · LaTeX, Markdown. Currently learning databases and statistics.
+* 💼 Open to full-time and part-time work from July 2027
+* 📄 Full resume (PDF) [here]()
 
 [comment]:# (Esto es un comentario)
 
