@@ -9,11 +9,11 @@
 
 
 
-I'm finishing **Ingeniería Comercial** at UPLA while taking data science and programming coursework at **PUCV**. I started university at 37, after seven years at PROSEGUR coordinating cash-handling teams of 6 to 80 people — I came to data from the operations side, and the problems I find interesting are the ones a business already has. Most recent work: a market study for an AI application (UPLA, 2025), the ICPC Chilean qualifier and Expo DataHorizon PUCV (2026).
+I'm finishing **Ingeniería Comercial** at UPLA while taking data science and programming coursework at **PUCV**. I came to university after seven years at PROSEGUR coordinating cash-handling teams of 6 to 80 people — I came to data from the operations side, and the problems I find interesting are the ones a business already has. Most recent work: a market study for an AI application (UPLA, 2025), the ICPC Chilean qualifier and Expo DataHorizon PUCV (2026).
 
 * 🧠 Python, R, C · basic TypeScript, JavaScript, Prolog · advanced Excel · LaTeX, Markdown. Currently learning databases and statistics.
 * 💼 Open to full-time and part-time work from July 2027
-* 📄 Full resume (PDF) [here]()
+* 📄 Full resume (PDF) [here]([CV_Antezana.pdf](https://github.com/user-attachments/files/34875498/CV_Antezana.pdf))
 
 [comment]:# (Esto es un comentario)
 
